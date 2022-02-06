@@ -3,3 +3,10 @@
     flex-direction: row;
 }
 
+mat-card {
+    margin: 15px;
+}
+button {
+
+    background-color: rgba(51, 65, 255, 0.419);
+}
